@@ -1,0 +1,6 @@
+whoami
+pwd
+hostname
+uname -a
+ls -la
+journalctl -n 50
